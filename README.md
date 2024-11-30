@@ -7,8 +7,8 @@ User can click on buttons to repeat the sequence.
 Levels increase with each successful round.
 Game over message displayed upon failure to repeat the sequence.
 # Technologies Used
-HTML5
-CSS3
+HTML5,
+CSS3,
 JavaScript
 
 # Getting Started
